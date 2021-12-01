@@ -5,10 +5,10 @@
 
 ✨ Tecnologias utilizadas
 
-Java Script
-HTML 5
-CSS
-Visual Studio code
+* Java Script
+* HTML 5
+* CSS
+* Visual Studio code
 
 # 🎲 Rodando o Back End (servidor)
 
@@ -16,7 +16,8 @@ Visual Studio code
 # Clone este repositório
 $ git clone <https://github.com/KellySoares/Recriando-a-Interface-do-Netflix>
 
-# Acesse a pasta que foi clonado o projeto e acesse no navegador <file:///[caminho do local da pasta]/index.html>
+# Acesse a pasta que foi clonado o projeto e acesse no navegador 
+<file:///[caminho do local da pasta]/index.html>
 
 ```
 
